@@ -40,6 +40,10 @@ h1{
     font-size: 24px;
     margin: 6px 0px;
 }
+h1:hover{
+    color: var(--custom-Yellow);
+    cursor: pointer;
+}
 .timedate{
     font-family: FigtreeVar;
     font-weight: 600;
